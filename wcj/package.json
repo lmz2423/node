@@ -1,0 +1,18 @@
+{
+  "name": "wcj_test",
+  "version": "1.0.0",
+  "description": "\"测石描述密令\"",
+  "main": "index.js",
+  "bin": {
+    "wcj": "bin/wcj.js"
+  },
+  "scripts": {
+    "test": "test wcj"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.yixinonline.org:mingzhongluo/wcj.git"
+  },
+  "author": "luomingzhong",
+  "license": "ISC"
+}

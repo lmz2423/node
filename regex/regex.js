@@ -8,3 +8,9 @@ var result = regTest.test(stringTest);
 console.log(result);
 result = regTest.test(stringTestOne);
 console.log(result);
+
+console.log(".............");
+
+var optionRegex = /^colou?$/;
+var optionString = 'colo';
+console.log(optionRegex.test(optionString));
