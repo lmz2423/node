@@ -5,11 +5,13 @@
   "main": "clientAndServer.js",
   "dependencies": {
     "connect": "^3.4.0",
-    "nimble": "^0.0.2",
+    "express": "^4.13.4",
     "htmlparser": "^1.7.7",
+    "nimble": "^0.0.2",
+    "oppressor": "^0.0.1",
     "request": "^2.60.0",
     "test": "^0.0.1",
-    "oppressor": "^0.0.1"
+    "utility": "^1.7.0"
   },
   "devDependencies": {},
   "scripts": {
